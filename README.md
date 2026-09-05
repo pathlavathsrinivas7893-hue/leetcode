@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/pathlavathsrinivas7893-hue/leetcode/tree/master/0175-combine-two-tables) |
 | [1075-project-employees-i](https://github.com/pathlavathsrinivas7893-hue/leetcode/tree/master/1075-project-employees-i) |
 | [1251-average-selling-price](https://github.com/pathlavathsrinivas7893-hue/leetcode/tree/master/1251-average-selling-price) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/pathlavathsrinivas7893-hue/leetcode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
